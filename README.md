@@ -23,11 +23,11 @@ This project is a simplified implementation of a shopping system, the project ai
 - [Android Studio](https://developer.android.com/studio/index.html) for Android development
 - [Android SDK](https://developer.android.com/sdk/) `23.0.1` or newer for Android development
 
-Group Members:
+## Group Members:
 - Kashish Purswani - IT51
 - Devraj Raghuvanshi - IT33
 - Mihir Gangrade - IT59
 
-Submitted To:
+## Submitted To:
 - Mr. Upendra Singh
 
